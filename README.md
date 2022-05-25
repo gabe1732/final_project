@@ -36,6 +36,21 @@ ML Algorithm - Supervised learning: Linear Regression (Some clustering may be us
 Python
 Jupyter notebooks
 Tableau
+
+### Data viz Planning
+
+We will group apps by category in this project.
+
+Some charts we want to show on the dashboard:
+
+* Show Average Rating for each Category – Tells how popular a category/genre is in the app store. You can see the category an app falls in and it is possible for that app to have a rating around that score.
+* Average number of installs per Category – Shows how popular each category is. (Hypothesis) Categories with more installs will tend to have more reviews.
+	* Average number of reviews for number of installs (bins)
+* Average number of reviews per Category
+Number of reviews for paid apps vs free apps – Will show if consumers are more likely to leave a review on an app that has been paid for.
+            	* Average Number of reviews for apps between price bins (apps >$1, $5…) – Will show if there is a correlation. (Not necessary in the dashboard)
+              
+
 ### Result of analysis:
 ### Recommendation for future analysis:
 ### Anything the team would have done differently:
