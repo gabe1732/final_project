@@ -24,6 +24,11 @@ Removing null values (1475 in Ratings column)
 Fix Size “Varies With Device”
 Have size all on same unit
 Removing Duplicate data
+
+**First Table**
+Table genre_data created in database:
+![image](https://user-images.githubusercontent.com/96017493/170596067-1087d67e-5fb7-4358-90ff-b5dd80a74905.png)
+
 ### Description of the analysis phase of the project:
 Breakdown by genre
 Breakdown by category
@@ -40,4 +45,4 @@ Tableau
 ### Recommendation for future analysis:
 ### Anything the team would have done differently:
 
-Kurt testing
+
