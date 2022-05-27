@@ -29,6 +29,11 @@ Removing Duplicate data
 Table genre_data created in database:
 ![image](https://user-images.githubusercontent.com/96017493/170596067-1087d67e-5fb7-4358-90ff-b5dd80a74905.png)
 
+**Second Table**
+Table rating_data created in database:
+![image](https://user-images.githubusercontent.com/96017493/170605797-92e48a22-67d6-4551-b80c-ad871c611ffd.png)
+
+
 ### Description of the analysis phase of the project:
 Breakdown by genre
 Breakdown by category
