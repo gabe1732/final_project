@@ -28,6 +28,7 @@ Removing Duplicate data
 Breakdown by genre
 Breakdown by category
 ### Technologies, languages, tools, and algorithms used throughout the project:
+Discord Communication
 Slack communication
 SQL Schema Design - https://www.quickdatabasediagrams.com/
 Joining multiple tables if there are multiple
