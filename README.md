@@ -37,6 +37,10 @@ Table rating_data created in database:
 ![image](https://user-images.githubusercontent.com/96017493/170841657-04891652-b6fb-4392-b82f-2a49de613b83.png)
 
 
+**Connecting DB to Pandas**
+![image](https://user-images.githubusercontent.com/96017493/170846041-d01928c2-7d34-4e9f-b28f-34887cf1735b.png)
+
+
 ### Description of the analysis phase of the project:
 Breakdown by genre
 Breakdown by category
