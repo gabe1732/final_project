@@ -47,6 +47,19 @@ ML Algorithm - Supervised learning: Linear Regression (Some clustering may be us
 Python
 Jupyter notebooks
 Tableau
+
+### Machine Learning Model
+  - Description of premliminary data preprocessing: We combined both data sets together on app_id and created one csv.
+  - We loaded the csv into a juypter note book and created a new data frame. 
+  - After we reviewed the data we determined that we had several columns that needed to encoded. 
+  - We dropped the unnecessary columns (app_id, app_name and last_updated) since these would not affect the app rating.  
+
+### Description of preliminary feature engineering and preliminary feature selection, including the decision-making
+  - We proceeded in encoding the categorical data.(app_type, category, content_rating and genres).  We identified these columns as features that could help determine the rating of a particular app.
+  - we then assigned our y to "rating" and X to the entire table minus rating to set
+  - 
+
+
 ### Result of analysis:
 ### Recommendation for future analysis:
 ### Anything the team would have done differently:
