@@ -56,7 +56,11 @@ Tableau
 
 ### Description of preliminary feature engineering and preliminary feature selection, including the decision-making
   - We proceeded in encoding the categorical data.(app_type, category, content_rating and genres).  We identified these columns as features that could help determine the rating of a particular app.
-  - we then assigned our y to "rating" and X to the entire table minus rating to set
+  - we then assigned our y to "rating" and X to the entire table minus "rating". 
+### Description of how data was split into training and testing sets.
+  - since we are using a linear regression for our Machine learning model we usted the model.fit method from sklearn.linear_model to train our data.  
+
+### Explanation of model choice, including limitations and benefits.
   - 
 
 
