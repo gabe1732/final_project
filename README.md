@@ -25,6 +25,7 @@ Want to see how the rating is affected by different dimensions of an app such as
 * Have size all on same unit
 * Removing Duplicate data
 
+
 **First Table**
 Table genre_data created in database:
 ![image](https://user-images.githubusercontent.com/96017493/170596067-1087d67e-5fb7-4358-90ff-b5dd80a74905.png)
@@ -39,6 +40,7 @@ Table rating_data created in database:
 
 **Connecting DB to Pandas**
 ![image](https://user-images.githubusercontent.com/96017493/170846041-d01928c2-7d34-4e9f-b28f-34887cf1735b.png)
+
 
 
 ### Description of the analysis phase of the project:
@@ -81,7 +83,6 @@ Some charts we want to show on the dashboard:
 * Average number of reviews per Category
 Number of reviews for paid apps vs free apps – Will show if consumers are more likely to leave a review on an app that has been paid for.
 	* Average Number of reviews for apps between price bins (apps >$1, $5…) – Will show if there is a correlation. (Not necessary in the dashboard)
-
 
 
 ### Result of analysis:
