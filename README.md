@@ -89,6 +89,9 @@ Some charts we want to show on the dashboard:
 Number of reviews for paid apps vs free apps – Will show if consumers are more likely to leave a review on an app that has been paid for.
 	- Average Number of reviews for apps between price bins (apps >$1, $5…) – Will show if there is a correlation. (Not necessary in the dashboard)
 
+### Tableau Dashboard
+https://public.tableau.com/views/GPSVisualization/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 
 ### Result of analysis:
 ### Recommendation for future analysis:
