@@ -44,8 +44,7 @@ Table rating_data created in database:
 
 
 ### Description of the analysis phase of the project:
-- Breakdown by genre
-- Breakdown by category
+- Using a Multiple Linear Regression machine learning model to examine the relationship between an app’s rating and a variety of independent variables.
 ### Technologies, languages, tools, and algorithms used throughout the project:
 - Discord communication
 - Slack communication
