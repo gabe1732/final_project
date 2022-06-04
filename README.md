@@ -75,6 +75,9 @@ Table rating_data created in database:
   - Linear effects are easy to quantify and describe. Thus, it is easy to separate those effects and analyze each variable.
   - Unfortunately, linear regression models can be sensitive to outliers.
 
+### Explanation of changes in model choice:
+  - We looked a changing it to the deep learning with nerual network but it really did not give an accuracy close to zero so it did not predict the ratings any better then our original multiple linear regression.  
+
 
 ### Data viz Planning
 
