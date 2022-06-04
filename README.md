@@ -69,6 +69,9 @@ Table rating_data created in database:
 ### Description of how data was split into training and testing sets:
   - since we are using a linear regression for our Machine learning model we used the model.fit method from sklearn.linear_model to train our data.  
 ### Explanation of model choice, including limitations and benefits.
+  - The Multiple Linear Regression model allows us to examine the relationship between our dependent variable (Rating score) and multiple independent variables.
+  - Linear effects are easy to quantify and describe. Thus, it is easy to separate those effects and analyze each variable.
+  - Unfortunately, linear regression models can be sensitive to outliers.
 
 
 ### Data viz Planning
