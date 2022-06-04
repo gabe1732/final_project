@@ -26,6 +26,9 @@ Want to see how the rating is affected by different dimensions of an app such as
 - Removing Duplicate data
 
 
+**DataBase Design Schema**
+![QuickDBD-Google_play_app_data](https://user-images.githubusercontent.com/94803292/171895993-e5f2dfb9-3b5d-4855-8b6b-46da91f0f310.png)
+
 **First Table**
 Table genre_data created in database:
 ![image](https://user-images.githubusercontent.com/96017493/170596067-1087d67e-5fb7-4358-90ff-b5dd80a74905.png)
@@ -85,6 +88,9 @@ Some charts we want to show on the dashboard:
 - Average number of reviews per Category
 Number of reviews for paid apps vs free apps – Will show if consumers are more likely to leave a review on an app that has been paid for.
 	- Average Number of reviews for apps between price bins (apps >$1, $5…) – Will show if there is a correlation. (Not necessary in the dashboard)
+
+### Tableau Dashboard
+https://public.tableau.com/views/GPSVisualization/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 
 ### Result of analysis:
