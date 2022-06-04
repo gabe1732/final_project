@@ -26,6 +26,9 @@ Want to see how the rating is affected by different dimensions of an app such as
 - Removing Duplicate data
 
 
+**DataBase Design Schema**
+![QuickDBD-Google_play_app_data](https://user-images.githubusercontent.com/94803292/171895993-e5f2dfb9-3b5d-4855-8b6b-46da91f0f310.png)
+
 **First Table**
 Table genre_data created in database:
 ![image](https://user-images.githubusercontent.com/96017493/170596067-1087d67e-5fb7-4358-90ff-b5dd80a74905.png)
