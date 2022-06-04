@@ -89,4 +89,6 @@ Number of reviews for paid apps vs free apps – Will show if consumers are more
 ### Recommendation for future analysis:
 ### Anything the team would have done differently:
 
+### Presentation Link:
+https://docs.google.com/presentation/d/1BhRZpSnGph_6TumH0epE9FgZXgR_WsA_aKaBvsYOUz0/edit?usp=sharing
 
