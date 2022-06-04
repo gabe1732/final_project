@@ -78,6 +78,12 @@ Table rating_data created in database:
 ### Explanation of changes in model choice:
   - We looked a changing it to the deep learning with nerual network but it really did not give an accuracy close to zero so it did not predict the ratings any better then our original multiple linear regression.  
 
+### Description of how they have trained the model thus far, and any additional training that will take place:
+  - We are currently not planning on retraining any of the models.  
+
+### Description of current accuracy score:
+  - Multiple regression classifier score R2 currently sits at .015
+  - Deep learning accuracy score is currently .0022
 
 ### Data viz Planning
 
